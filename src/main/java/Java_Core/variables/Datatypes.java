@@ -6,7 +6,7 @@ public class Datatypes {
         int value=10;
         String name="Mishitha";
         float height=5.4f;
-        long contact_no=96881893688l;
+        int contact_no=968466677;
         char Gender='F';
 
         System.out.println(value);
